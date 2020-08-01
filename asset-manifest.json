@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/analise-vestibular/static/css/main.5f361e03.chunk.css",
+    "main.js": "/analise-vestibular/static/js/main.a63b27e3.chunk.js",
+    "main.js.map": "/analise-vestibular/static/js/main.a63b27e3.chunk.js.map",
+    "runtime-main.js": "/analise-vestibular/static/js/runtime-main.9a2b6d5e.js",
+    "runtime-main.js.map": "/analise-vestibular/static/js/runtime-main.9a2b6d5e.js.map",
+    "static/js/2.e555ac23.chunk.js": "/analise-vestibular/static/js/2.e555ac23.chunk.js",
+    "static/js/2.e555ac23.chunk.js.map": "/analise-vestibular/static/js/2.e555ac23.chunk.js.map",
+    "index.html": "/analise-vestibular/index.html",
+    "precache-manifest.549317e12540b904d6c75ba072b897c9.js": "/analise-vestibular/precache-manifest.549317e12540b904d6c75ba072b897c9.js",
+    "service-worker.js": "/analise-vestibular/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/analise-vestibular/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e555ac23.chunk.js.LICENSE.txt": "/analise-vestibular/static/js/2.e555ac23.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/analise-vestibular/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a2b6d5e.js",
+    "static/js/2.e555ac23.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a63b27e3.chunk.js"
+  ]
+}
